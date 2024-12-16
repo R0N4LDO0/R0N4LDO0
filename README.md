@@ -1,7 +1,7 @@
 - 👋 Olá sou Ronaldo 
 - 👀 Hoje faço estágio na Compass UOL de AWS & DevSecOps
 - ❤️ Meu objetivo e trabalha como Hacker Ético no futuro proximo
-- ⚡Tenho conhecimentos nas tecnologias Nmap , Burp Suite , Weris Shark, hydra ,hping3 , Python ,Exploits
+- ⚡Tenho conhecimentos nas tecnologias Nmap , Burp Suite , Weris Shark, hydra ,hping3 , Python ,Exploits, Docker , Kurbenetes , Cloud , AWS
 
 
 
