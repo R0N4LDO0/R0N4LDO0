@@ -1,6 +1,6 @@
-- 👋 Olá sou Ronaldo 
-- 👀 Hoje faço estágio na Compass UOL de AWS & DevSecOps
-- ❤️ Meu objetivo e trabalha como Hacker Ético no futuro proximo
+- 👋 Olá sou Ronaldo
+- 👀 Especialista em Cyber Security com experiência em DevSecOps
+- ❤️ Meu objetivo e trabalha como Hacker Ético dm um futuro proximo
 - ⚡Tenho conhecimentos nas tecnologias Nmap , Burp Suite , Weris Shark, hydra ,hping3 , Python ,Exploits, Docker , Kurbenetes , Cloud , AWS , Wordpress  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
  💬 Vamos conversar ⤵️ 
