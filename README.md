@@ -29,9 +29,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)    
 
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=R0N4LDO0&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0N4LDO0&show_icons=true&theme=highcontrast) 
+
+
 
 
 
